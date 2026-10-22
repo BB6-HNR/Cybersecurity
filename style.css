@@ -7,9 +7,9 @@ body {
     line-height: 1.6;
 }
 
-/* Change 2: Give the header a dark background and white text */
+/* Change 2: Give the header a image background and white text */
 header {
-    background-image: url("https://www.image2url.com/r2/default/images/1792694578565-962c3479-d8c3-4022-bcfd-d055eba9e30e.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGWpPHZxUhMt9qh1b1hFg-6TpZW8KrIVqq8cX_q8lnXQ&s=10");
     color: white;
     text-align: center;
     padding: 35px 20px;
