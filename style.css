@@ -1,17 +1,23 @@
-
+/* Change 1: Set the page font, background color, and text color */
 body {
-    margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f1f5f9;
     color: #1e293b;
+    margin: 0;
     line-height: 1.6;
 }
 
+/* Change 2: Give the header a dark background and white text */
 header {
     background-color: #0f172a;
     color: white;
     text-align: center;
-    padding: 40px 20px;
+    padding: 35px 20px;
+}
+
+/* Change 3: Make the main heading larger */
+h1 {
+    font-size: 32px;
 }
 
 header h1 {
