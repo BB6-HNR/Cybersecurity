@@ -9,7 +9,7 @@ body {
 
 /* Change 2: Give the header a dark background and white text */
 header {
-    background-color: #0f172a;
+    background-image: url("https://www.google.com/imgres?q=cybersecurity%20background%20check&imgurl=https%3A%2F%2Fcybersnowden.com%2Fwp-content%2Fuploads%2F2025%2F02%2FCyber-Security-Background-Check.jpg&imgrefurl=https%3A%2F%2Fcybersnowden.com%2Fcyber-security-background-check-guide%2F&docid=0NUkrupn5134QM&tbnid=yFH7_-lIOlXhsM&vet=12ahUKEwibjrivos6XAxXm4skDHdCIGZUQnPAOegUIwQEQAA..i&w=1500&h=860&hcb=2&ved=2ahUKEwibjrivos6XAxXm4skDHdCIGZUQnPAOegUIwQEQAA");
     color: white;
     text-align: center;
     padding: 35px 20px;
